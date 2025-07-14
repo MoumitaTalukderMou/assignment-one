@@ -244,8 +244,8 @@ main{
     text-align: center;
     
 }
-footer input[type="text"],footer textarea,footer input[type="email"],footer input[type="submit"]{
-    height: 64px;
+footer input[type="text"],footer textarea,footer input[type="email"]{
+    height: 70px;
     border-radius: 10px;
     /* color: rgba(255, 255, 255, 1); */
     background-color: white;
@@ -298,16 +298,15 @@ footer input[type="text"],footer textarea,footer input[type="email"],footer inpu
     
 
 }
-.btn{
- background-color: #4E47FF;
+ .btn{
+    background-color: #4E47FF;
     border: none;
     border-radius: 10px;
-    padding: 12px 36px;
-    color: white;
-    width: 520px;
-    border-radius: 10px;
-    height: 62px;
-}
+    text-align: center;
+    color: #FFFFFF;
+    padding: 19px 220px;
+    
+ }
 body{
     background-color: rgb(234, 239, 241);
 }
